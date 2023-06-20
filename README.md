@@ -11,7 +11,5 @@
 Задача решается посредством обхода исходного массива в цикле и выбора подходящих строк с помощью условного оператора if, задающего критерий. Строки, удовлетворяющие критерию (если таковые имеются), сохраняются в новом массиве, который считается целевым. Данный способ представлен на рисунке в виде блок-схемы алгоритма функции - файл Program_Block_Diagram.jpeg, который можно просмотреть по ссылке ниже (либо открыв непосредственно)
 
 [Function_Block_Diagram](https://drive.google.com/file/d/100-9e_WYjA1kLjxWyLCoS_SfxCLHm8kL/view?usp=drive_link)
-
-![Function_Block_Diagram](.\Program_Block_Diagram.jpg "Function_Block_Diagram")  
   
 ![Function_Block_Diagram](https://drive.google.com/file/d/100-9e_WYjA1kLjxWyLCoS_SfxCLHm8kL/view?usp=drive_link "Function_Block_Diagram")

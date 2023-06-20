@@ -1,2 +1,35 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using static System.Console;
+using static System.String;
+
+namespace FirstStageQualification
+{
+    static class Program
+    {
+        // Определим функцию, которая в заданном массиве символьных строк осуществляет поиск элементов,
+        // содержащих указанное количество символов, и формирует из найденных элементов новый массив. 
+        public static string[] GetItemsOfRequiredLength(string[] array, int length)
+        {
+            string[] matchedItems;  // Объявление ссылки на новый массив для хранения строк из массива array, 
+                                    // длина которых <= length (Массив - это ссылочный тип)
+
+            // Применим конструкцию обработки возможных исключений, чтобы избежать аварийного завершения программы:
+            try 
+            {
+                matchedItems = Array.FindAll(array, item => item.Length <= length);
+                // Для поиска строк в исходном массиве, длина которых не более 3-х символов,
+                // используется статический метод FindAll класса Array с лямбда-функцией,
+                // выполняющей роль предиката для  выбора подходящих элементов.
+                // Данную операцию можно реализовать также посредством обхода исходного массива в цикле
+                // и выбора подходящих строк с помощью условного оператора if, задающего критерий.
+                return matchedItems;
+            }
+            catch(ArgumentNullException)
+            {
+                // Если исходный массив содержит нулевые ссылки (т.к. это массив строк - ссылочных типов),
+                // то в качестве результата возвращается пустой массив:
+                return Array.Empty<string>();
+            }
+        }
+
+    }
+}    

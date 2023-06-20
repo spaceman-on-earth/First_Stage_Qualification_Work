@@ -1,0 +1,15 @@
+C:\Users\ai82\Desktop\first_stage_qualification\bin\Debug\net6.0\first_stage_qualification.exe
+C:\Users\ai82\Desktop\first_stage_qualification\bin\Debug\net6.0\first_stage_qualification.deps.json
+C:\Users\ai82\Desktop\first_stage_qualification\bin\Debug\net6.0\first_stage_qualification.runtimeconfig.json
+C:\Users\ai82\Desktop\first_stage_qualification\bin\Debug\net6.0\first_stage_qualification.dll
+C:\Users\ai82\Desktop\first_stage_qualification\bin\Debug\net6.0\first_stage_qualification.pdb
+C:\Users\ai82\Desktop\first_stage_qualification\obj\Debug\net6.0\first_stage_qualification.csproj.AssemblyReference.cache
+C:\Users\ai82\Desktop\first_stage_qualification\obj\Debug\net6.0\first_stage_qualification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ai82\Desktop\first_stage_qualification\obj\Debug\net6.0\first_stage_qualification.AssemblyInfoInputs.cache
+C:\Users\ai82\Desktop\first_stage_qualification\obj\Debug\net6.0\first_stage_qualification.AssemblyInfo.cs
+C:\Users\ai82\Desktop\first_stage_qualification\obj\Debug\net6.0\first_stage_qualification.csproj.CoreCompileInputs.cache
+C:\Users\ai82\Desktop\first_stage_qualification\obj\Debug\net6.0\first_stage_qualification.dll
+C:\Users\ai82\Desktop\first_stage_qualification\obj\Debug\net6.0\refint\first_stage_qualification.dll
+C:\Users\ai82\Desktop\first_stage_qualification\obj\Debug\net6.0\first_stage_qualification.pdb
+C:\Users\ai82\Desktop\first_stage_qualification\obj\Debug\net6.0\first_stage_qualification.genruntimeconfig.cache
+C:\Users\ai82\Desktop\first_stage_qualification\obj\Debug\net6.0\ref\first_stage_qualification.dll
